@@ -1,11 +1,6 @@
 
 # AnomalyDetectionInIndustrialSystems
 
-Contributers:
-Anuj Tadkase
-Tejas Hirve
-Sumedh Bambal
-Yash Kolekar
 
 ![image](https://github.com/user-attachments/assets/3cf9f57a-1317-4bde-a415-c50efb086a2b)
 
